@@ -3,6 +3,9 @@ body {
 	width: 90%;
 	margin-left: 5%;
 }
+#contenido{
+	margin: 1%;
+}
 
 header {
 	padding: 3px 10px;
@@ -16,10 +19,12 @@ header {
 
 header h1 {
 	padding-left: 10px;
+	margin: 1%;
+	font-size: 1.5em;
 }
 
 footer {
-	font-size: 8px;
+	font-size: 0.8em;
 	border-top: solid 2px #1f47a8;
 	padding-top: 10px;
 	margin-top: 15px;
